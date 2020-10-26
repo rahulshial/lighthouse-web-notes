@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [Rahul Shial] (https://github.com/rahulshial) for the [Lighthouse Labs] (https://www.lighthouselabs.ca/) Web Development Bootcamp. 
+This repository contains all of the notes taken by [Rahul Shial](https://github.com/rahulshial) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp. 
 October 26, 2020 was my first day of the Bootcamp, and it has been exhilarating so far. Bradley, Kelly Glen & Andy have made us feel very welcome, and I am on my way to becoming a software developer.
 
 Points to remember:
