@@ -13,3 +13,11 @@ Points to remember:
 5. Get comfortable being uncomfortable.
 
 In this activity, I am learning how to add a repository and update my notes.
+
+### Schedule
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+  1. Item One
+  2. Item Two
+  3. Item Three
